@@ -28,7 +28,7 @@
 
 
 ### After 
-<img width="450" height="512" alt="image" src="https://github.com/user-attachments/assets/11a66346-0cda-4c4c-afdd-f42d908fcb53" />
+![Uploading image.png…]()
 
 
 ## 🛠 關鍵功能 (Key Features)
