@@ -1,4 +1,4 @@
-# [專案名稱 : Syna ]：基於 NLWeb 的智慧化銀行互動式介面
+# [專案名稱 : Syna ]：基於 Agentic Web 的次世代銀行服務中樞
 
 [![Hackathon](https://img.shields.io/badge/Hackathon-2026-blue.svg)](https://github.com/[你的帳號]/[專案名稱])
 [![Tech Stack](https://img.shields.io/badge/Tech_Stack-Frontend%20%7C%20NLWeb%20%7C%20Backend-green.svg)](#技術架構)
