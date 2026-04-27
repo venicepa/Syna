@@ -53,8 +53,8 @@
 
 
 ## 👥 團隊介紹
-* **[Eason - Product & Prompt]** - 負責 Prompt Engineering調校 與 整體架構設計。
-* **[Jin - Front-end & UX]** - 開發 自然語言輸入介面 與 動態結果渲染。
-* **[Poly - Back-end & Semantic]** - 負責 Schema.org 結構化資料佈署與 MCP 伺服器 搭建。
+* **[Eason - Product & Prompt]** - 整體架構設計。
+* **[Jin - Front-end & UX]** - 自然語言輸入介面 與 動態結果渲染。
+* **[Poly - Back-end & Semantic]** - MCP 伺服器搭建, Prompt Engineering調校。
 
 
