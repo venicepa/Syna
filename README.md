@@ -26,11 +26,11 @@
 3.  **Backend (現有架構)：** `提供穩定的金融業務邏輯與 API 接口。
 
 ### Before 
-<img width="1188" height="1324" alt="image" src="https://github.com/user-attachments/assets/ab928226-3e47-4038-be62-237cc4d54d82" />
+<img width="594" height="662" alt="image" src="https://github.com/user-attachments/assets/ab928226-3e47-4038-be62-237cc4d54d82" />
 
 
 ### After 
-<img width="1114" height="1412" alt="image" src="https://github.com/user-attachments/assets/7c3df870-3b4e-40f3-b561-56f753158f3a" />
+<img width="557" height="706" alt="image" src="https://github.com/user-attachments/assets/7c3df870-3b4e-40f3-b561-56f753158f3a" />
 
 
 ## 🛠 關鍵功能
